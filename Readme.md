@@ -99,10 +99,4 @@ This project provided practical experience with:
 
 ---
 
-## 👨‍💻 Author
 
-**Jishnu P**
-
-Computer Science Engineering Student
-
-Currently learning Web Development, Data Structures & Algorithms, and AI/ML.
